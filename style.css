@@ -6,9 +6,7 @@ span {
     color: #4CAF4F;
 }
 
-.clients {
-    text-align: center;
-}
+
 
 .pictures {
     width: 100%;
@@ -16,11 +14,40 @@ span {
     justify-content: space-around;
     display: flex;
     align-items: center;
-    
-}
-.manage{text-align: center;
-font-family: inter;
-height: 70px;margin: 20px 20px;
 
 }
-.manage h1{font-size: 26px;}
+
+.manage {
+    text-align: center;
+    font-family: inter;
+    height: 100px;
+    margin: 20px 20px;
+
+}
+
+.manage h1 {
+    font-size: 26px;
+}
+
+.color-2 {
+    background-color: #F5F7FA;
+}
+
+.color-5 {
+    background-color: #263238;
+    color: #F5F7FA;
+}
+
+.color-5 ul li {
+    color: #F5F7FA;
+}
+
+.help {
+    padding: 20px 20px;
+    background-color: #F5F7FA;
+}
+
+.foot {
+    padding: 30px 20px;
+}
+
